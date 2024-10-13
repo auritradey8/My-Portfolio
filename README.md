@@ -1,24 +1,4 @@
-💼 My Personal Portfolio
-Welcome to my portfolio repository! This showcases my projects, skills, academics and experiences in development and leadership.
-
-🌟 About Me
-I'm a developer passionate about building web applications and promoting tech culture. My portfolio highlights both personal and professional projects.
-
-📁 Featured Projects
-Utsav Universe: A platform for organizing Indian events (weddings, birthdays).
-Tech: Node.js, MongoDB, JavaScript
-
-TarangTutor: A responsive website for a Personal Tutor.
-Tech: Node.js, MongoDB, JavaScript
-
-Personal Portfolio: Showcasing my skills, blog, and achievements.
-Tech: HTML, CSS, JavaScript
-
-⚙️ Tech Stack
-Languages: JavaScript, Python, HTML, CSS, Java, C++
-Frameworks: React, Node.js
-Databases: MongoDB, Firebase
-Tools: Git, VS Code
+Welcome to my portfolio repository! This repository showcases my projects, skills, academics, and experiences in development and leadership. I am a developer passionate about building web applications and fostering a tech-driven culture. My portfolio includes both personal and professional projects such as Utsav Universe, a platform for organizing Indian events like weddings and birthdays, TarangTutor, a responsive website for a personal tutor, and my Personal Portfolio, which showcases my skills, blog, and achievements. My tech stack includes JavaScript, Python, HTML, CSS, Java, and C++, with frameworks like React and Node.js. I have experience working with databases such as MongoDB and Firebase, and I utilize tools like Git and VS Code for development.
 
 📫 Contact
 Email: auritra16970@gmail.com
